@@ -1,0 +1,8 @@
+{
+    "chunks": [
+        "Certificate of Completion\nThis is to certify that\n(?P<firstName>.*) (?P<lastName>.*)",
+        "Has successfully completed the course\n(?P<courseTitle>.*)",
+        "Date: (?P<registrationDate>.*)\nRegistration Number: (?P<registrationNumber>.*)",
+        "Certificate Number: (?P<certificateNumber>.*)"
+    ]
+}

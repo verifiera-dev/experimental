@@ -1,0 +1,24 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Suspendisse eu eleifend arcu, vitae tincidunt elit.
+
+Certificate of Completion
+This is to certify that
+John Doe
+
+Cras in finibus risus, at viverra augue.
+Cras gravida massa in ullamcorper viverra.
+Aliquam id faucibus lectus, sed dignissim arcu.
+
+Has successfully completed the course
+Bootcamp: Software Development with Python
+
+Fusce et rhoncus quam.
+Vestibulum sit amet porta turpis.
+Integer dapibus nisi a mi porttitor congue.
+
+Date: 21/01/2020
+Registration Number: 00112233
+
+Aliquam erat volutpat.
+
+Certificate Number: 99887766
