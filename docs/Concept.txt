@@ -1,0 +1,32 @@
+Awarding body
+An entity such as an academic institution will register.
+The entity can then login/logout.
+The entity can update profile details.
+The entity can register a programme, cohort (for generalisation this can be category then subcategory).
+The entity can upload reward winners as JSON (this can include name, surname, email, national identification, blockchain wallet).
+Registration done on blockchain.
+The entity can upload a sample certificate (tag system)
+
+Award winner
+Can receive invite when they are registered as an award winner by awarding body.
+Can request to create an account.
+Claim ownership/activate of a registered award.
+Manage profile.
+Manage awards.
+
+Public Service
+Upload certificate
+User selects awarding body, programme, cohort.
+Annotation done automatically.
+Verification done automatically.
+
+Programming Languages
+Python
+Go
+Tesseract
+IPFS
+Ethereum
+
+3rd Party Tool Integration
+Keyclock
+RabbitMQ
